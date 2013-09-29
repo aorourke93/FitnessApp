@@ -1,7 +1,5 @@
-String _Exp = "myweb.csuchico.edu._Exp";
-String _Level = "myweb.csuchico.edu._Level";
-
 String isFirstTime = "myweb.csuchico.edu.firstTime";
+
 String bicepCurl_Exp = "myweb.csuchico.edu.bicepCurl_Exp";
 String bicepCurl_Level = "myweb.csuchico.edu.bicepCurl_Level";
 
